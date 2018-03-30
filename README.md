@@ -8,4 +8,4 @@ The tools/packages I like to use (and all are free)
 
 * [Visual Studio Code](https://code.visualstudio.com/) (Code Editor that runs on Windows or Mac)
 * [ASP.NET Core](https://www.asp.net/core/overview/aspnet-vnext) (Framework/software libraries that help you develop interactive web sites)
-  * [Visual Studio on Mac Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages-vsc/razor-pages-start)
+  * [How to build movie web site using Visual Studio Code](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages-vsc/razor-pages-start)
